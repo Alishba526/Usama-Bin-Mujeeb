@@ -46,11 +46,7 @@ function About() {
           📩 Let’s Build Something Amazing Together!
           If you are looking for an expert team for web development, app development, or any digital solution, feel free to connect with us!
         </p>
-        <div className="btn-boxone">
-          <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAElt-K8Br21Cu7d924LEsj2IHF4yC89iA4k&keywords=abdul%20basit%20mujeeb&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=6555af61-c99d-4ddf-9f48-6e9a0c" className="btn">
-            Read More!
-          </a>
-        </div>
+       
       </div>
     </section>
   );
