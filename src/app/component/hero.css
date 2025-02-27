@@ -280,7 +280,7 @@ a.btn:nth-child(2)::before {
 
     .image-box img {
         max-width: 450px; 
-        height: 400px;
+        height: 300px;
        
     }
 
