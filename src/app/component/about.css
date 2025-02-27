@@ -22,7 +22,7 @@
 }
 
 .about .img-about img {
-    max-width: 90%; /* Make image fully responsive */
+    max-width: 80%; /* Make image fully responsive */
     height:80%;
 }
 
